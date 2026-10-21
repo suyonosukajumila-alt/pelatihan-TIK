@@ -1,5 +1,5 @@
 body {
-    background-color: #3c1a70; /* Warna kuning cerah */
+    background-color: #ceadff; /* Warna kuning cerah */
     font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
     color: white; /* Warna teks utama (biru gelap) */
 }
@@ -8,7 +8,7 @@ body {
     width: 300px;
     margin: 50px auto; /* 50px jarak atas/bawah, auto menengahkan kiri/kanan */
     padding: 20px;
-    background-color: #d1acf7;
+    background-color: #9538f3;
     border-radius: 15px; /* Pembuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
 }
