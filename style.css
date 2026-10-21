@@ -1,4 +1,3 @@
-```css
 body {
     background-color: #FFFFE0; /* Warna kuning cerah */
     font-family: Arial, sans-serif; /* Jenis huruf yang bersih dan mudah dibaca */
@@ -13,8 +12,7 @@ body {
     border-radius: 15px; /* Pembuat sudut menjadi melengkung */
     box-shadow: 0 4px 8px rgba(0,0,0,0.1); /* Efek bayangan */
 }
-```
-```css
+
 .kartu-profil img {
     width: 150px;
     border-radius: 50%; /* Trik untuk membuat gambar persegi menjadi lingkaran sempurna */
@@ -23,4 +21,3 @@ body {
     /* .... (kode dari slide sebelumnya) .... */
     text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
-```
